@@ -1,0 +1,2 @@
+class Zapatos
+    pass
